@@ -105,4 +105,7 @@ If you want to test the site locally but share it with friends or test it on you
 
 **Created & Maintained by [Yoruboku](https://github.com/yoruboku)**
 
+* **Discord:** [Join the Server](https://discord.gg/qjD4yZYg8j)
+* **Repo:** [Vemera](https://github.com/yoruboku/Vemera)
+
 If you enjoy this project, please consider starring the repository! 🌟
