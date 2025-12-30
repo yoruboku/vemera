@@ -23,6 +23,24 @@ Vemera focuses on providing a **premium User Interface** experience often missin
 
 ---
 
+## 📸 Screenshots
+
+<div align="center">
+  <h3>Home Page</h3>
+  <img src="./screenshots/home.png" width="800" alt="Home Page">
+  <br/><br/>
+</div>
+
+<div align="center">
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="./screenshots/player.png" width="45%" alt="Streaming Player">
+    <img src="./screenshots/search.png" width="45%" alt="Search Interface">
+  </div>
+  <p><i>The immersive player and dynamic search interface</i></p>
+</div>
+
+---
+
 ## ⚙️ Configuration (Required)
 
 Before hosting, you must add your own API Key.
