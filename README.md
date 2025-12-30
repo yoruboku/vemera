@@ -1,16 +1,4 @@
-# Vemera | Infinite Streaming
-
-<div align="center">
-  <img src="https://via.placeholder.com/1200x500.png?text=Vemera+Preview" alt="Vemera Banner" width="100%" />
-  <br/>
-  <br/>
-  <a href="https://github.com/yoruboku/vemera">
-    <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintained">
-  </a>
-  <a href="https://github.com/yoruboku/vemera">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
-  </a>
-</div>
+# Vemera
 
 **Vemera** is a sleek, next-generation streaming frontend that aggregates movies, TV shows, and anime into a stunning, glassmorphic interface. Built with pure vanilla HTML, CSS, and JS, it requires no backend installation and runs entirely in the browser.
 
