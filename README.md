@@ -18,6 +18,11 @@ Vemera focuses on providing a **premium User Interface** experience often missin
 
 ---
 
+## try it out at
+[Vemera](https://yoruboku.github.io/boku1/)
+
+---
+
 ## ⚙️ Configuration (Required)
 
 Before hosting, you must add your own API Key.
