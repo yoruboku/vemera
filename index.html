@@ -389,6 +389,19 @@
         </div>
     </div>
 
+    <div id="modal-adblock" class="modal-over" style="z-index: 6000;">
+        <div class="modal box-modal" style="width: 400px; text-align: center; height: auto; flex-direction:column; gap:20px;">
+            <h2 style="color: #ef4444; font-weight: 800;">⚠️ Adblock Recommended</h2>
+            <p style="color: #ccc; line-height: 1.6;">
+                The external video servers often contain pop-up ads. <br>
+                We highly recommend using an <b>Adblocker</b> extension for the best viewing experience.
+            </p>
+            <button class="btn btn-primary" style="width: 100%; justify-content: center;" onclick="document.getElementById('modal-adblock').style.display='none'">
+                I Understand
+            </button>
+        </div>
+    </div>
+
     <script>
         const API = "YOUR_TMDB_API_KEY_HERE";
         const SERVERS = [
@@ -724,6 +737,8 @@
         const player = {
             ep: null,
             init: async (s, e, srvIdx = 0) => {
+                document.getElementById('modal-adblock').style.display = 'flex';
+                
                 player.ep = s ? {s,e} : null;
                 app.closeModals();
                 document.getElementById('player').style.display = 'flex'; // FLEX, NOT BLOCK
