@@ -48,7 +48,7 @@ Before hosting, you must add your own API Key.
 1.  Register for a free account at [The Movie Database (TMDb)](https://www.themoviedb.org/).
 2.  Go to your account settings and generate an **API Key**.
 3.  Open `index.html` in your code editor.
-4.  Find **Line 406** (approx) inside the `<script>` tag:
+4.  Find **Line 421** (approx) inside the `<script>` tag:
     ```javascript
     // REPLACE THIS
     const API = "YOUR_TMDB_API_KEY_HERE";
