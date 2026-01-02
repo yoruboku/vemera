@@ -5,8 +5,7 @@
 ---
 
 <div align="center">
-  <h3>Home Page</h3>
-  <img src="navlogo.png" width="800"
+  <img src="navlogo.png" width="800" alt="LOGO">
   <br/><br/>
 </div>
 
