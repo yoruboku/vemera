@@ -2,6 +2,16 @@
 
 **Vemera** is a sleek, next-generation streaming frontend that aggregates movies, TV shows, and anime into a stunning, glassmorphic interface. Built with pure vanilla HTML, CSS, and JS, it requires no backend installation and runs entirely in the browser.
 
+---
+
+<div align="center">
+  <h3>Home Page</h3>
+  <img src="navlogo.png" width="800" alt="LOGO">
+  <br/><br/>
+</div>
+
+---
+
 ## ✨ Features
 
 Vemera focuses on providing a **premium User Interface** experience often missing in open-source streaming sites.
